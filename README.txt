@@ -1,0 +1,1 @@
+Remove the "<?php" tag from the input file ( unencrypted file)
